@@ -15,6 +15,6 @@
 * "Y" : セルタイプをCodeに変更
 * "M" : セルタイプをMarkdownに変更
 
-参照 :   
+### 参照 :   
 * [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 * [データサイエンスのためのPython入門②〜Jupyter Labの使い方とショートカット一覧まとめ〜](https://datawokagaku.com/howtouse_jupyter/)
